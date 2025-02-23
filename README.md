@@ -45,7 +45,9 @@ Snicks-Picks-Website/
 │── README.md # Project documentation
 
 yaml
+
 Copy
+
 Edit
 
 ---
@@ -94,6 +96,7 @@ SEO Optimization: Improve visibility with structured metadata and keywords.
 Contributions are welcome! If you have ideas or improvements, feel free to fork the repository and submit a pull request.
 
 📬 Connect with Me
+
 GitHub: github.com/AbdulMoeez1278
 
 LinkedIn: linkedin.com/in/abdulmoeez1278
