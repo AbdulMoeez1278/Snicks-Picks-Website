@@ -35,6 +35,7 @@ Snicks Picks is a **modern and fully responsive** community website designed wit
 ## 📂 Folder Structure  
 
 Snicks-Picks-Website/ 
+
 │── index.html # Main HTML file
 │── style.css # CSS file for styling
 │── images/ # Folder for images, icons, and fonts
