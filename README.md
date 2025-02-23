@@ -95,7 +95,9 @@ Contributions are welcome! If you have ideas or improvements, feel free to fork 
 
 📬 Connect with Me
 GitHub: github.com/AbdulMoeez1278
+
 LinkedIn: linkedin.com/in/abdulmoeez1278
+
 Email: abdulmoeez1278@gmail.com
 
 ⭐ If you find this project helpful, don't forget to star the repository! ⭐
